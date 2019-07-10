@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1562786581 source:c:\users\michael\desktop\programs\c++\textmanipulator\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"writer.h"
+	"cardHandler.h"
+	"bankStructure.h"
+	"card.h"
+
+1562712067 c:\users\michael\desktop\programs\c++\textmanipulator\include\cmdrenderer.h
+	"entity.h"
+
+1562711969 c:\users\michael\desktop\programs\c++\textmanipulator\include\entity.h
+	<string>
+
+1562786581 source:c:\users\michael\desktop\programs\c++\textmanipulator\src\writer.cpp
+	"writer.h"
+
+1562779484 c:\users\michael\desktop\programs\c++\textmanipulator\include\writer.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	"splitString.h"
+
+1562778427 c:\users\michael\desktop\programs\c++\textmanipulator\include\cardhandler.h
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"card.h"
+	"writer.h"
+	"bankStructure.h"
+
+1562778431 source:c:\users\michael\desktop\programs\c++\textmanipulator\src\cardhandler.cpp
+	"cardHandler.h"
+
+1562786125 source:c:\users\michael\desktop\programs\c++\textmanipulator\src\bankstructure.cpp
+	"bankStructure.h"
+
+1562786110 c:\users\michael\desktop\programs\c++\textmanipulator\include\bankstructure.h
+	<stdlib.h>
+	<time.h>
+	<string>
+	<sstream>
+	<iostream>
+	"card.h"
+	"cardHandler.h"
+	"writer.h"
+	"splitString.h"
+
+1562732557 c:\users\michael\desktop\programs\c++\textmanipulator\include\card.h
+	<string>
+	"writer.h"
+
+1562732577 source:c:\users\michael\desktop\programs\c++\textmanipulator\src\card.cpp
+	"card.h"
+
+1562775489 c:\users\michael\desktop\programs\c++\textmanipulator\include\splitstring.h
+	<string>
+	<iostream>
+
+1562775567 source:c:\users\michael\desktop\programs\c++\textmanipulator\src\splitstring.cpp
+	"splitString.h"
+
